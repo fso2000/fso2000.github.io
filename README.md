@@ -5,4 +5,5 @@ This GitHub Repository was created by Favour Ozogbu. It will store the files of 
 Hosted on GitHub.
 
 Jekyll was used to generate and format the Blog and pages.
-I used Markdown to create posts for my Blog Page.
+
+Markdown was used to create posts for my Blog Page.
