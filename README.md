@@ -6,4 +6,4 @@ Hosted on GitHub.
 
 Jekyll was used to generate and format the Blog and pages.
 
-Markdown was used to create posts for my Blog Page.
+Markdown was used to create posts for my Blog Page without having to use html tags.
